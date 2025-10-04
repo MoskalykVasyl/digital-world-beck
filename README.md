@@ -43,4 +43,4 @@ Built using **Node.js**, **Express**, and **MongoDB**.
   <h2>💾 Frontend Repository</h2>
 
 You can check out the client-side code here:  
-👉 Digital World (frontend) [https://github.com/your-username/digital-world-front](https://github.com/MoskalykVasyl/digital-world-front)
+👉 Digital World (frontend)  https://github.com/MoskalykVasyl/digital-world-front
